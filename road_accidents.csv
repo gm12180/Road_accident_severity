@@ -1,0 +1,9 @@
+Climate,RoadQuality,DrivingSpeed,DriverState,AccidentImpact
+Hot,Good,80,Sober,Minimal
+Cold,Bad,60,Tired,Critical
+Rainy,Average,100,Drunk,Critical
+Hot,Good,70,Sober,Minimal
+Cold,Bad,50,Tired,Average
+Rainy,Average,90,Drunk,Critical
+Hot,Good,85,Sober,Minimal
+Cold,Bad,65,Tired,Average
