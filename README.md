@@ -1,5 +1,5 @@
 # Road Accident Severity Prediction
-
+Student ID; BSE-01-0062/2024
 This repository contains the implementation of a machine learning model to predict the severity of road accidents. The model is built using **Linear Regression** and utilizes a variety of features such as weather conditions, traffic volume, road type, and time of day to predict accident severity. The goal of this project is to demonstrate how data-driven models can be used to enhance road safety, particularly in underdeveloped countries.
 
 ## Assignment Overview
